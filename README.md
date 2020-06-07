@@ -5,5 +5,5 @@ I am making no claim of originality. Portions of code and setup steps have been 
 
 This minimal task checks if my ministry website, gospelmailbox.org, is up and running. If it is up then it sends me an e-mail that says it is good. If it is down then it sends me an email that the website is down. It is using the AWS built-in cron and the AWS email service (SES).
 
-See the WIKI for more information. 
+See the WIKI for more information. https://github.com/donniebryson/LambdaPlay1/wiki/Setup-Environment
 
